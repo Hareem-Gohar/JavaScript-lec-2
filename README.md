@@ -1,2 +1,2 @@
 # JavaScript-lec-2
-These are basic JavaScript programs for finding Factorial of a number,Fibbonacci series, Remove Ocurrences of the given character, Reverse a String, Getter and Setter method,Printing first repeating char, Integer or not and function that allow to call a function .
+These are basic JavaScript programs for factorials, Fibonacci series, removing characters, reversing strings, using getter and setter methods, finding the first repeating character, checking integers, and calling functions within functions.
